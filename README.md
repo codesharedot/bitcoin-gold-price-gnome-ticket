@@ -1,5 +1,8 @@
-# bitcoin-gold price gnome ticket 
+# bitcoin-gold gnome price ticker
 
-Gnome 3 desktop ticker for bitcoin-gold price with Python and argos. Rename to bitcoin-gold.1r.60s.py and put in ~/.config/argos
+Get bitcoin-gold price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/bitcoin-gold-price-gnome-ticket/](https://codesharedot.github.io/bitcoin-gold-price-gnome-ticket/)
 
-https://pythonbasics.org
+bitcoin-gold price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to bitcoin-gold.1r60s.py and put in ~/.config/argos
